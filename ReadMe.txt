@@ -1,0 +1,1 @@
+A little set of routines to prevent Windows from switching into StandBy or Sleep Modes. Use them if you have a long-running or overnight application which cannot be interrupted or suspended by Windows going into hibernation after a period of user idleness (as may be optioned in System Administration).
